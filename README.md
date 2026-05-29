@@ -21,6 +21,7 @@
 | **CelestiaVR** | Immersive VR stargazing for Meta Quest 3 with NASA/JPL data | [Demo ↗](https://www.youtube.com/watch?v=QzRTp0EtUsQ) · [Animated Presentation ↗](https://rdx-rajat-savdekar.github.io/Celestia_Presentation/) |
 | **Aura** | visionOS CoreML app — 2nd place USC Hackathon | [Demo ↗](https://www.youtube.com/watch?v=HbW9F2zjmLQ&t=65s) |
 | **SplitIt** | Graph-based expense splitter | [Live ↗](https://splitit-frontend-vite.vercel.app/login) |
+|**Research Papers**| All papers I have published | [Repo ↗](https://github.com/RDX-Rajat-Savdekar/Research-Papers)|
 
 ---
 
